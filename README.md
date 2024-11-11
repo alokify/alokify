@@ -2,13 +2,13 @@
 
 I'm a **Full Stack Web Developer** with a passion for building interactive and responsive web applications. I thrive on turning complex problems into simple, beautiful, and intuitive designs. I enjoy learning new technologies and enhancing my skills every day.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokify&show_icons=true&theme=radical)
 
 ---
 
 ## 🌱 About Me
 
-<img src="https://img.icons8.com/ios-filled/50/000000/code.png" width="30" height="30"/> **Specialization:** Full Stack Development  
+<img src="https://img.icons8.com/ios-filled/50/000000/code.png" width="30" height="30" fill="white"/> **Specialization:** Full Stack Development  
 <img src="https://img.icons8.com/ios-filled/50/000000/map-marker.png" width="30" height="30"/> **Location:** [Your Location]  
 <img src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" width="30" height="30"/> **Education:** [Your Degree] from [Your University]  
 <img src="https://img.icons8.com/ios-filled/50/000000/learning.png" width="30" height="30"/> **Currently Learning:** [Latest Technology/Framework you are learning]  
