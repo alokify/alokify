@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Web Developer** with a passion for building interactive and responsive web applications. I thrive on turning complex problems into simple, beautiful, and intuitive designs. I enjoy learning new technologies and enhancing my skills every day.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokify&show_icons=true&theme=radical)
 
 ---
 
